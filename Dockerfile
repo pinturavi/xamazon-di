@@ -1,4 +1,4 @@
-FROM doptopenjdk/openjdk8
+FROM adoptopenjdk/openjdk8
 
 RUN mkdir -p /etc/xamazon
 
